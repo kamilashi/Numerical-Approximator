@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.csprojAssemblyReference.cache
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Form11.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Properties.Resources.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\I_Launcher\I_Launcher\bin\Debug\NAudio.dll
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.csproj.CopyComplete
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Determinant.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Inverse.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Muller.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Bisection.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.FalseP.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.FixedP.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Secant.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Gauss.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.Cos.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.GaussNaive.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\I_Launcher.ModifiedSecant.resources
+C:\Users\User\source\repos\I_Launcher\I_Launcher\bin\Debug\Roll the Intro!.exe.config
+C:\Users\User\source\repos\I_Launcher\I_Launcher\bin\Debug\Roll the Intro!.exe
+C:\Users\User\source\repos\I_Launcher\I_Launcher\bin\Debug\Roll the Intro!.pdb
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\Roll the Intro!.exe
+C:\Users\User\source\repos\I_Launcher\I_Launcher\obj\Debug\Roll the Intro!.pdb
